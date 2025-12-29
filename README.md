@@ -12,7 +12,8 @@ The Blood Matrix project is a web-based blood donation management system designe
 
 ![image](https://github.com/user-attachments/assets/b79dbadb-c536-405d-b252-ce2fb3a376ce)
 
-![image](https://github.com/user-attachments/assets/e8bfe628-757b-46f8-9e64-7298e42c8fa6)
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/6336abd4-2796-4f45-b740-5c3a4c1e2e6a" />
+
 
 ![image](https://github.com/user-attachments/assets/1675d30b-56ac-43c7-8715-2d8adc193429)
 
